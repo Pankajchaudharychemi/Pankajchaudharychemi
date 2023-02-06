@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **hfgjgj**
+- 🔭 I’m currently working on **Drug Design with help od Nanotechnology and Computational Chemistry.**
 
-- 🌱 I’m currently learning **ghgjh**
+- 🌱 I’m currently learning **Physical Chemistry**
 
-- 👯 I’m looking to collaborate on **hjgjh**
+- 👯 I’m looking to collaborate on **Project which include reduction of waste production in our enviornment(Nanotechnology) **
 
-- 🤝 I’m looking for help with **bkhbkj**
+- 💬 Ask me about **Machine learning, Python, C++, Enviornmental Sciences , Physical Chemistry.**
 
-- 💬 Ask me about **hbvjb**
-
-- 📫 How to reach me **bkbkjbkj@gmail.com**
+- 📫 How to reach me **pankajchemi.stud@nita.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajchaudharychemi&show_icons=true&locale=en&layout=compact" alt="pankajchaudharychemi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajchaudharychemi&show_icons=true&locale=en" alt="pankajchaudharychemi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panka[IIT_Madras_Resume_Template__2_page___1___Copy_ (2).pdf](https://github.com/Pankajchaudharychemi/Pankajchaudharychemi/files/10664976/IIT_Madras_Resume_Template__2_page___1___Copy_.2.pdf)
+jchaudharychemi&show_icons=true&locale=en" alt="pankajchaudharychemi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajchaudharychemi&" alt="pankajchaudharychemi" /></p>
 
